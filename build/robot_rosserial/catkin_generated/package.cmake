@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "robot_rosserial")
+set(robot_rosserial_MAINTAINER "ed <ed@todo.todo>")
+set(robot_rosserial_DEPRECATED "")
+set(robot_rosserial_VERSION "0.0.0")
+set(robot_rosserial_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation")
+set(robot_rosserial_RUN_DEPENDS "message_runtime" "roscpp" "rospy" "std_msgs")
+set(robot_rosserial_BUILDTOOL_DEPENDS "catkin")

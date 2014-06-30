@@ -1,0 +1,8 @@
+prefix=/home/ed/Dropbox/GitHub/simpleRosR/install
+
+Name: robot_rosserial
+Description: Description of robot_rosserial
+Version: 0.0.0
+Cflags: -I/home/ed/Dropbox/GitHub/simpleRosR/install/include
+Libs: -L/home/ed/Dropbox/GitHub/simpleRosR/install/lib -lrobot_rosserial
+Requires: roscpp rospy std_msgs message_runtime
